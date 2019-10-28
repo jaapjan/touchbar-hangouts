@@ -19,7 +19,7 @@ And turn your video camera off.
 
 * Use Google Chrome.
 * Install [BetterTouchTool](https://www.boastr.net/).
-* [Import](http://boastr.net/docs/docs/preferences_presets.html) the JSON file [HangoutsPreset.json](`TouchBarHangouts.json`) into BetterTouchTool.
+* [Import](http://boastr.net/docs/docs/preferences_presets.html) the JSON file [TouchBarHangouts.json](TouchBarHangouts.json) into BetterTouchTool.
 * Configure BetterTouchTool "General Touch Bar Settings" to your needs. I use the following settings:
 ![](images/btt-global-settings.png)
 
